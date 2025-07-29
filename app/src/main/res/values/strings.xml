@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Katalogku</string>
+    <string name="cari_buku">Cari daftar buku dengan mudah!</string>
+    <string name="daftar_buku">Daftar Buku</string>
+    <string name="homepage">Homepage</string>
+    <string name="cari">Cari Buku</string>
+    <string name="kategori">Kategori</string>
+    <string name="tahun">Tahun</string>
+</resources>
